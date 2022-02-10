@@ -6,7 +6,6 @@
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/16BghUv8_Qkdxm_hX7CLB0hdkn6UZqRw9?usp=sharing](https://drive.google.com/drive/folders/16BghUv8_Qkdxm_hX7CLB0hdkn6UZqRw9?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
-<br/>
 <p align="left">
 <a href="https://linkedin.com/in/mukesh-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukesh-kumar" height="30" width="40" /></a>
 </p>
