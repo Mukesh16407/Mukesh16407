@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋, I'm Mukesh Kumar</h1>
 <div>
- <img align="right"" src="https://github.com/Mukesh16407/Mukesh16407/assets/66511917/d602bda1-0594-4039-a3d8-59f2a9382407" alt="mukesh-kumar" height="200" width="300" />
+ <img align="right"" src="https://github.com/Mukesh16407/Mukesh16407/assets/66511917/d602bda1-0594-4039-a3d8-59f2a9382407" alt="mukesh-kumar" height="200" width="300"/>
  <h4 align="left">About Me:</h4>
  <ul  align="left">
   <li> 🙂 Exploring new technologies and learning data structures and algorithms.</li>
@@ -40,10 +40,18 @@
 <hr/>
 <h3 align="left">⚙️ GitHub Analytics</h3>
 <div >
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mukesh16407&show_icons=true&locale=en" alt="mukesh16407" 
-/>
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukesh16407&show_icons=true&locale=en&layout=compact" alt="mukesh16407"
- />
+  <img  src="https://github-readme-stats.vercel.app/api?username=mukesh16407&show_icons=true&locale=en" alt="mukesh16407" 
+height="180rem" style="max-width:100%;"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mukesh16407&show_icons=true&locale=en&layout=compact" alt="mukesh16407"
+height="180rem" style="max-width:100%;" />
+</div>
+<div>
+ <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mukesh-kumar-464273229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mukesh-kumar-464273229/" height="30" width="40" /></a>
+
+</p>
+ 📫 How to reach me **mkvermashk@gmail.com**
 </div>
 
 
