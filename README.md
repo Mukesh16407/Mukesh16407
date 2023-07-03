@@ -39,21 +39,12 @@
 <br/>
 <hr/>
 <h3 align="left">⚙️ GitHub Analytics</h3>
-<div>
+<div >
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=mukesh16407&show_icons=true&locale=en" alt="mukesh16407" 
-width="500px" />
- <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mukesh16407&show_icons=true&locale=en&layout=compact" alt="mukesh16407"
-width="450px" />
+/>
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukesh16407&show_icons=true&locale=en&layout=compact" alt="mukesh16407"
+ />
 </div>
-<hr/>
-<div>
- <h3>Connect with Me</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mukesh-kumar-464273229/" target="blank">
 
-</a>
-</p>
-
-</div>
 
 
